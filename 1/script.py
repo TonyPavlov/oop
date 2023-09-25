@@ -1,1 +1,3 @@
-print("Hello Andriy Kovalyshyn")
+a = [2,4,6,7,2,3,1,4,5,6,8,3,1,8,9]
+b = [1,5,7,3]
+print(a+b)
