@@ -40,6 +40,8 @@ phonebook = {
     "Jill" : 947662781
 }
 
+phonebook["Jake"] = 938273443
+del phonebook["Jill"]
 
 # testing code
 if "Jake" in phonebook:
