@@ -7,4 +7,3 @@ class MyClass:
 myobjectx = MyClass()
 
 print(myobjectx.variable)
-
